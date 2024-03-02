@@ -17,10 +17,4 @@ This is C++ project that uses OOP concepts and File Handling to store records of
 	The interface of program will change on running it on different screen resolutions.
 	The project is still under development and may have bugs at different stages.
 	
-# Screenshots:
 
-![1](/Screenshots/1.png)
-
-![2](/Screenshots/2.png)
-
-![3](/Screenshots/3.png)
